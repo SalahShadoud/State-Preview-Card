@@ -16,7 +16,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 - Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/state-preview-card-html-and-css-felxbox-css-grid-XNP5qDRJQ7)
 - Live Site URL: [Live Site URL](https://state-preview-card-iota.vercel.app/)
 
-## My process
+### My process
 
 1. I Looked through the designs and started planning out how I'll tackle the project.
 2. I structured the content with HTML.
@@ -32,6 +32,6 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 - CSS Grid
 - Mobile-first workflow
 
-## Author
+### Author
 
 - Frontend Mentor - [@Salah Shadoud](https://www.frontendmentor.io/profile/SalahShadoud)
