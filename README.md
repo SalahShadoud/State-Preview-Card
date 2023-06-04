@@ -13,7 +13,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ### Links
 
-- Solution URL: [Solution URL](https://your-solution-url.com)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/state-preview-card-html-and-css-felxbox-css-grid-XNP5qDRJQ7)
 - Live Site URL: [Live Site URL](https://state-preview-card-iota.vercel.app/)
 
 ## My process
